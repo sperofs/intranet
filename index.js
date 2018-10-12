@@ -90,12 +90,4 @@ $(document).ready(function(){
     		console.log(res);
   		});
 	})
-
-	//If I did Instagram, tables would be:
-	//Users
-	//Photos
-	//Likes
-	//Comments
-	//Photos, likes need to be have key for the user
-	//Comments need to be linked to photos
 })
